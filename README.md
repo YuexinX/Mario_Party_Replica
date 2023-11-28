@@ -1,4 +1,4 @@
-# Mario_Party_Replica
+# Peach_Party
 This is a project of course CS32 called Peach Party, a replica of Mario Party.
 
 Peach Party is a two-player game set in a world that resembles a traditional board game.
